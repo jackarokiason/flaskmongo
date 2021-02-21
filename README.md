@@ -1,1 +1,1 @@
-# flaskmongo
+connectionstring="Uri"
